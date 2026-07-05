@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML-PROJECT
+Version: 0.0.1
+Author: Harshita
+Author-email: harshita6097@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
